@@ -1,0 +1,2 @@
+wp-content/ai1wm-backups/rgambar.test-20240108-032400-nu2u0g.wpress filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
